@@ -1,6 +1,6 @@
 # Node.js and Express.js Practice Projects
 
-This repo contains 2 small projects built using Node and Express.
+This repo contains 3 small projects built using Node and Express.
 
 ## Projects
 1. **Form** – Basic rendering value given in the input form.  
@@ -13,4 +13,5 @@ Navigate to each project folder, install dependencies, and start the server:
 
 cd Project_1
 npm install
+
 node index.js //(or) nodemon index.js
