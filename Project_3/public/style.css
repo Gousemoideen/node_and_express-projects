@@ -1,0 +1,34 @@
+body {
+    background-color: burlywood;
+}
+
+#title {
+    color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    text-align: end;
+}
+
+#ctn {
+    background-color: black;
+    margin-top: 15px;
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+}
+
+#up {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+
+}
